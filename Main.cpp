@@ -55,6 +55,7 @@ for(;;)
     break;
 
     default: cout<<"Takiej opcji nie ma w menu!"<<endl;
+    break;
     }
      cout<<"Nacisnij ENTER aby kontynuowac"<<endl;
     getchar();getchar();
